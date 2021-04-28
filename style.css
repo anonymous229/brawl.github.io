@@ -81,6 +81,15 @@ This Template Is Fully Coded By Linkon Miyan from rexord.com
     font-size: 30px;
 }
 
+.special-text {
+    text-decoration-line: line-through;
+}
+
+.post-photo {
+    width: 748px;
+    height: 430px;
+}
+
 /* </КОСТЫЛИ ИЛЯЯ ВОРОНЕНА> */
 
 

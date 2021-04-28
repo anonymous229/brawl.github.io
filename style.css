@@ -1437,6 +1437,7 @@ Contact Page CSS
 -----------------------------------------------------------*/
 #map_area{
     min-height: 475px;
+    background-color: #ededed;
 }
 .google_map{
     position: relative;

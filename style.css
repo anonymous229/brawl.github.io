@@ -65,6 +65,22 @@ This Template Is Fully Coded By Linkon Miyan from rexord.com
     height: 470px;
 }
 
+.none-events {
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color: #ededed;
+    padding: 100px 100px 100px 100px;
+    text-align: center;
+}
+
+.none-events h2 {
+    font-size: 50px;
+}
+
+.none-events p {
+    font-size: 30px;
+}
+
 /* </КОСТЫЛИ ИЛЯЯ ВОРОНЕНА> */
 
 

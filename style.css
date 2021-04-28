@@ -60,6 +60,11 @@ This Template Is Fully Coded By Linkon Miyan from rexord.com
     margin-top: -380px;
 }
 
+.why_our_school {
+    width: 475px;
+    height: 470px;
+}
+
 /* </КОСТЫЛИ ИЛЯЯ ВОРОНЕНА> */
 
 
@@ -229,7 +234,7 @@ Breadcrumb CSS
     overflow: hidden;
 }
 .breadcrumb_top{
-    background: url(img/bg_breadcrumb.jpg);
+    background: url(img/main/bg_breadcrumb.png);
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
